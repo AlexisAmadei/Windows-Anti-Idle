@@ -6,5 +6,5 @@ Script for preventing being idle on windows computer. Works fine with Teams or o
 In powershell cli :
 ```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force
-.\KeepActive.ps1
+.\Anti-Idle.ps1
 ```
